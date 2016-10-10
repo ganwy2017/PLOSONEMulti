@@ -1,1 +1,11 @@
 Results of the PlosONE Paper
+
+All the tables in each .mat file have the same format: 
+1st column: Optimal results
+2nd Column: Auction algorithm with lamda_B = 1.0
+3th Column: Auction algorithm with lamda_B = 0.8
+4th Column: Auction algorithm with lamda_B = 0.6
+5th Column: Auction algorithm with lamda_B = 0.4
+6th Column: Auction algorithm with lamda_B = 0.2
+7th Column: Auction algorithm with lamda_B = 0.0
+8th Column: Greedy algorithm
