@@ -1,1 +1,5 @@
 Results with hard-deadlines
+
+File name format:
+
+totalResHDE_%T_%R_I1.mat: total utility for %T tasks and %R robots. See README file of the results directory for a description of the table format.
