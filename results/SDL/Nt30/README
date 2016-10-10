@@ -1,1 +1,5 @@
 Soft-deadline results with 30 tasks
+
+File name format: 
+  - totalU30_I1_P_%d.mat: total utility for %d number of robots per task. See README file of the results directory for a description of the table format.
+  - totalTimeU30_I1_P_%d.mat: total execution time for %d number of robots per task. See README file of the results directory for a description of the table format.
